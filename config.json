@@ -1,0 +1,8 @@
+{
+  "input_language": "english",
+  "target_language": "turkish",
+  "model": "gpt-5.1",
+  "context_before": 8,
+  "context_after": 4,
+  "batch_size": 8
+}

@@ -1,0 +1,31 @@
+1
+00:00:01,000 --> 00:00:03,000
+Merhaba.
+
+2
+00:00:03,500 --> 00:00:05,200
+Örnek altyazıya hoş geldiniz.
+
+3
+00:00:05,700 --> 00:00:07,500
+Bu kısa dosyada sadece sekiz satır var.
+
+4
+00:00:08,000 --> 00:00:10,000
+Her satır zamanlamayı basit tutuyor.
+
+5
+00:00:10,500 --> 00:00:12,500
+Bunu hızlı testler için kullanabilirsiniz.
+
+6
+00:00:13,000 --> 00:00:15,000
+Uzun paragraflar dahil edilmedi.
+
+7
+00:00:15,500 --> 00:00:17,500
+Çeviri paketleri çok küçük kalıyor.
+
+8
+00:00:18,000 --> 00:00:20,000
+Aracı denerken keyif alın.
